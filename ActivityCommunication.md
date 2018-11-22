@@ -1,5 +1,5 @@
 
-```
+```java
 package com.example.myf.activitycommunication;
 
 import android.content.Intent;
@@ -64,7 +64,7 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 
-```
+```java
 package com.example.myf.activitycommunication;
 
 import android.content.Intent;
@@ -108,7 +108,7 @@ public class SubActivity1 extends AppCompatActivity{
 
 ```
 
-```
+```java
 package com.example.myf.activitycommunication;
 
 import android.os.Bundle;
@@ -136,7 +136,7 @@ public class SubActivity2 extends AppCompatActivity {
 ```
 
 
-```
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -172,7 +172,7 @@ public class SubActivity2 extends AppCompatActivity {
 ```
 
 
-```
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <android.support.constraint.ConstraintLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
@@ -214,7 +214,7 @@ public class SubActivity2 extends AppCompatActivity {
 ```
 
 
-```
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <android.support.constraint.ConstraintLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
@@ -243,7 +243,7 @@ public class SubActivity2 extends AppCompatActivity {
 ```
 
 
-```
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.myf.activitycommunication">
