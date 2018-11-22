@@ -1,7 +1,5 @@
 
-#i
-*d*
-```
+```java
 package com.example.asus.sy1;
 
 import android.support.v7.app.AppCompatActivity;
