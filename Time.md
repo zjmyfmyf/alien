@@ -1,5 +1,5 @@
 
-```
+```java
 package com.example.asus.time;
 
 import android.content.Intent;
@@ -104,7 +104,7 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 
-```
+```java
 package com.example.asus.time;
 
 import android.app.Service;
@@ -187,7 +187,7 @@ public class TimeService extends Service {
 ```
 
 
-```
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.asus.time">
@@ -214,7 +214,7 @@ public class TimeService extends Service {
 ```
 
 
-```
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
