@@ -1,5 +1,5 @@
 
-```
+```java
 package com.example.myf.sql;
 
 import android.content.ContentValues;
@@ -137,7 +137,7 @@ public class DBAdapter {
 ```
 
 
-```
+```java
 package com.example.myf.sql;
 
 
@@ -341,7 +341,7 @@ public class SQLiteDemoActivity extends Activity {
 }
 ```
 
-```
+```java
 package com.example.myf.sql;
 
 public class Student {
@@ -364,7 +364,7 @@ public class Student {
 ```
 
 
-```
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
